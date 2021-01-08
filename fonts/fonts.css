@@ -1,0 +1,126 @@
+@font-face {
+    font-family: "Lato-Black";
+    src:
+        url("Lato-Black.eot") format("eot"),
+        url("Lato-Black.otf") format("otf"),
+        url("Lato-Black.svg") format("svg"),
+        url("Lato-Black.ttf") format("ttf"),
+        url("Lato-Black.woff") format("woff"),
+        url("Lato-Black.woff2") format("woff2");
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Lato-Regular";
+    src:
+        url("Lato-Regular.eot") format("eot"),
+        url("Lato-Regular.otf") format("otf"),
+        url("Lato-Regular.svg") format("svg"),
+        url("Lato-Regular.ttf") format("ttf"),
+        url("Lato-Regular.woff") format("woff"),
+        url("Lato-Regular.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "BabasNeueBold";
+    src:
+        url("BabasNeueBold.eot") format("eot"),
+        url("BabasNeueBold.otf") format("otf"),
+        url("BabasNeueBold.svg") format("svg"),
+        url("BabasNeueBold.ttf") format("ttf"),
+        url("BabasNeueBold.woff") format("woff"),
+        url("BabasNeueBold.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Lato-Semibold";
+    src:
+        url("Lato-Semibold.eot") format("eot"),
+        url("Lato-Semibold.otf") format("otf"),
+        url("Lato-Semibold.svg") format("svg"),
+        url("Lato-Semibold.ttf") format("ttf"),
+        url("Lato-Semibold.woff") format("woff"),
+        url("Lato-Semibold.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "ico";
+    src:
+        url("ico.eot") format("eot"),
+        url("ico.otf") format("otf"),
+        url("ico.svg") format("svg"),
+        url("ico.ttf") format("ttf"),
+        url("ico.woff") format("woff"),
+        url("ico.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "RobotoCondensed-Regular";
+    src:
+        url("RobotoCondensed-Regular.eot") format("eot"),
+        url("RobotoCondensed-Regular.otf") format("otf"),
+        url("RobotoCondensed-Regular.svg") format("svg"),
+        url("RobotoCondensed-Regular.ttf") format("ttf"),
+        url("RobotoCondensed-Regular.woff") format("woff"),
+        url("RobotoCondensed-Regular.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "helvetica-neue-etext-w01";
+    src:
+        url("helvetica-neue-etext-w01.eot") format("eot"),
+        url("helvetica-neue-etext-w01.otf") format("otf"),
+        url("helvetica-neue-etext-w01.svg") format("svg"),
+        url("helvetica-neue-etext-w01.ttf") format("ttf"),
+        url("helvetica-neue-etext-w01.woff") format("woff"),
+        url("helvetica-neue-etext-w01.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: "open_sans_bold";
+    src:
+        url("open_sans_bold.eot") format("eot"),
+        url("open_sans_bold.otf") format("otf"),
+        url("open_sans_bold.svg") format("svg"),
+        url("open_sans_bold.ttf") format("ttf"),
+        url("open_sans_bold.woff") format("woff"),
+        url("open_sans_bold.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: "Roboto-Bold";
+    src:
+        url("Roboto-Bold.eot") format("eot"),
+        url("Roboto-Bold.otf") format("otf"),
+        url("Roboto-Bold.svg") format("svg"),
+        url("Roboto-Bold.ttf") format("ttf"),
+        url("Roboto-Bold.woff") format("woff"),
+        url("Roboto-Bold.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: "IBMPlexSans-Regular";
+    src:
+        url("IBMPlexSans-Regular.eot") format("eot"),
+        url("IBMPlexSans-Regular.otf") format("otf"),
+        url("IBMPlexSans-Regular.svg") format("svg"),
+        url("IBMPlexSans-Regular.ttf") format("ttf"),
+        url("IBMPlexSans-Regular.woff") format("woff"),
+        url("IBMPlexSans-Regular.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+}
