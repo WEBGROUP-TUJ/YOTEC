@@ -1601,7 +1601,6 @@ footer {
 .zayav {
   padding: 80px 0;
   background: url(../img/slider-bg10.jpg) 50% 50% / cover;
-  background-attachment: fixed;
 }
 
 .zayav .container {
