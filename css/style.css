@@ -1958,7 +1958,7 @@ h1 {
 @media (max-width: 600px) {
 
 .num {
-  background-attachment: scroll !important;
+  background-attachment: local !important;
 }
 .slide1{
   display: none !important;
