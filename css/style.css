@@ -862,7 +862,6 @@ header {
 
 .num {
   background: url(../img/slider-bg10.jpg) 50% 50% / cover;
-  background-attachment: local;
   padding: 100px 0 70px 0;
   display: -webkit-box;
   display: -webkit-flex;
