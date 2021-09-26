@@ -1957,6 +1957,9 @@ h1 {
 
 @media (max-width: 600px) {
 
+.num {
+  background-attachment: scroll !important;
+}
 .slide1{
   display: none !important;
 }
