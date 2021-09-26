@@ -1955,6 +1955,12 @@ h1 {
   }
 }
 
+@media (max-width: 600px) {
+.slide1{
+  display: none !important;
+}
+}
+
 @media (max-width: 1202px) {
   .nav {
     display: none;
