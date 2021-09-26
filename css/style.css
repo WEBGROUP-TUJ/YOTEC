@@ -1956,6 +1956,7 @@ h1 {
 }
 
 @media (max-width: 600px) {
+
 .slide1{
   display: none !important;
 }
@@ -2046,6 +2047,11 @@ h1 {
 }
 
 @media (max-width: 600px) {
+
+  .head_div{
+    position: relative;
+  }
+
   .carousel .sli .sli1 .line-word div {
     display: none;
   }
