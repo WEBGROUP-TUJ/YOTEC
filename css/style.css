@@ -862,7 +862,6 @@ header {
 
 .num {
   background: url(../img/slider-bg10.jpg) 50% 50% / cover;
-  background-attachment: fixed;
   padding: 100px 0 70px 0;
   display: -webkit-box;
   display: -webkit-flex;
@@ -1957,9 +1956,7 @@ h1 {
 
 @media (max-width: 600px) {
 
-.num {
-  background-attachment: local !important;
-}
+
 .slide1{
   display: none !important;
 }
