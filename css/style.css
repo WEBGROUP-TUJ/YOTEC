@@ -1959,6 +1959,9 @@ h1 {
 .slide1{
   display: none !important;
 }
+.logo{
+  min-width:200px !important;
+}
 }
 
 @media (max-width: 1202px) {
